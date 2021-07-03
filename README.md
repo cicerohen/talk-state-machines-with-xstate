@@ -1,6 +1,6 @@
 ## State Machines with xState
 
-This is a source code of my talk about the use of xState to get control of a UI
+This code is part of my talk about the use of xState to get control of a UI
 
 
 ### Get Started
